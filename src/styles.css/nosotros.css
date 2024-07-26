@@ -1,0 +1,47 @@
+
+.historia p{
+  font-size: 12px;
+
+}
+
+.personas{
+  display: flex;
+  justify-content: space-between;
+}
+
+.persona{
+  border: 1px solid #b6b6b6;
+  border-radius: 8px;
+  text-align: center;
+  width: 18%;
+  padding: 12px;
+  box-sizing: border-box;  /* contempla padding y contempla el borde para que las cajas se separen*/
+}
+ 
+
+.persona img{
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgb(169, 169, 169);
+  width: 40%;
+  margin: 10px 0 24px; 
+}
+
+.persona h5,
+.persona h6{
+  color: #6da9ed;
+  margin: 0;
+  font-weight: normal;
+}
+
+.persona h5{
+  font-size: 16px;
+}
+
+.persona h6{
+  font-style: italic;
+  font-size: 12px;
+}
+
+.persona p{
+  font-size: 12px;
+}
