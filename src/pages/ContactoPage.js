@@ -20,7 +20,7 @@ const ContactoPage = (props)=> {
             </p>
             <p>
               <label for="">Comentario</label>
-              <textarea name=""></textarea>
+              <textarea name="" ></textarea>
             </p>
             <p>
               <input type="submit" class="prueba" value="Enviar" />
@@ -34,11 +34,11 @@ const ContactoPage = (props)=> {
               <p>Tambien pueden contactarse a travez de estos medios</p>
               <ul>
                 <li>Telefono: 2154545</li>
-                
-                <li><i class="fa-brands fa-tiktok"></i></li>
-                <li>red social 3</li>
-                <li>red social 4</li>
-                <li>mail:</li>
+                <li>facebook: the best</li>
+                <li>tiktok: El mejor </li>
+                <li>instagram: The number One</li>
+                <li>Twiter: Siempre mejorando</li>
+                <li>mail:hrv21081969@gmail.com</li>
               </ul>
               <div class="mapa">
               

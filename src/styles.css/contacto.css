@@ -26,14 +26,16 @@
   background-color: yellow;
   display: flex;
   align-items: center;
+  border-radius: 5px;
+  border: 1px solid black;
 }
 
 .formulario p input,
 .formulario p textarea{
   width: 100%;
   background-color:#dddddd;
-  border: 1px solid #6d6d6dee;
-  border-radius: 2px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
   padding: 6px;
   font-size: 14px;
   box-sizing: border-box;
@@ -57,8 +59,9 @@
   color:white;
   cursor: pointer;
   position: relative;
-  left: 50%;
-  
+  left: 1px;
+
+    
 }
 
 .formulario input[type="submit"]:hover{
