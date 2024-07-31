@@ -40,7 +40,7 @@ const ContactoPage = (props)=> {
                 <li>Twiter: Siempre mejorando</li>
                 <li>mail:hrv21081969@gmail.com</li>
               </ul>
-              <div class="mapa">
+              <div class="mapa"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52547.49868462438!2d-58.4963346513672!3d-34.59863169999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccb2e1493a6a3%3A0x1862a7c0b8163e5d!2sUTN.BA!5e0!3m2!1ses-419!2sar!4v1722401900852!5m2!1ses-419!2sar" title='ubicacion de la UTN' style={{width:800, height:400, border:0}} ></iframe>
               
               
               </div>
